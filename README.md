@@ -10,7 +10,7 @@ You have been hired by a local restaurant to develop a simplified backend system
 
 ### Initialize the Project:
 
-Basic express template was given  
+Basic express template was given
 You need to install all the necessary packages required for the task.
 
 ### Define a MenuItem schema that includes:
